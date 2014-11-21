@@ -1,9 +1,11 @@
-A website focused on modern US soccer statistics, news, and analysis.
+A website for the soccerstats.us project
 
 
 ====Concept
 
-An implementation of the soccerstats.us platform using a specific subsection of data.
+Front page should explain the concept clearly.
+
+Other pages should offer simple, comprehensive display of data with option to download.
 
 
 ====Data
